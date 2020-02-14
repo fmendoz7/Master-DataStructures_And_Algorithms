@@ -6,6 +6,8 @@
     If you are looking for a WHOLLY IMMUTABLE version after declaration, use tuples
 
     If you are looking for an ITERABLE, MUTABLE list with NO DUPLICATES, use a set
+
+    Bro, arrayLists are A SUBSET of dynamic arrays LOL
 """
 """----------------------------------------------------------------------"""
 #--LISTS-- []
