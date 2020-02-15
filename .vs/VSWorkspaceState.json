@@ -2,12 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Algorithms",
-    "\\Algorithms\\Python3\\Search Algorithms",
-    "\\Algorithms\\Python3\\Sorting Algorithms",
     "\\Data Structures",
     "\\Data Structures\\C++",
     "\\Data Structures\\Python3"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Data Structures\\Python3\\BinaryHeap.py",
   "PreviewInSolutionExplorer": false
 }
